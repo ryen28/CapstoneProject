@@ -3,8 +3,3 @@ For the DataEngineer.io bootcamp Capstone Project, I'd like to create an End to 
 I have yet to find the data sources yet, but I would try to find some sort of live or semi-live data stream that could provide anonymized clinical test results of Influenza, Covid and RSV infections.  I'd try to find at least 2 different data live stream sources and use python/pandas to do EDA on the data.  I'd try to use Flink to live stream the data and a relational database to store the information (either postgres or mysql).
 
 Data Sources for Project:
-
-
-1) [For Covid]: https://github.com/owid/covid-19-data/tree/master/public/data
-2) [For Flu]:
-3) [For RSV]:
